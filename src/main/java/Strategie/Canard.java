@@ -1,3 +1,5 @@
+package Strategie;
+
 public class Canard {
 
     public void concaner(){

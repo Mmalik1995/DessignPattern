@@ -1,3 +1,5 @@
+package Strategie;
+
 public class Colvert extends Canard {
 
     public void afficher(){

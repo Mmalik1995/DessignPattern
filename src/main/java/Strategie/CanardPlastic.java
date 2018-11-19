@@ -1,3 +1,5 @@
+package Strategie;
+
 public class CanardPlastic extends Canard {
 
     public void afficher(){
