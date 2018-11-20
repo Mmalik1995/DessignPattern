@@ -6,3 +6,5 @@ public class CanardPlastic extends Canard {
         System.out.println("Je suis un canard en plastic");
     }
 }
+
+
