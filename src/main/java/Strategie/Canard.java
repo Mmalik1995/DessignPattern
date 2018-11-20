@@ -7,6 +7,8 @@ public class Canard {
         System.out.println("coin coin");
     }
 
+
+
     public void nager(){
         System.out.println("je nage");
     }
